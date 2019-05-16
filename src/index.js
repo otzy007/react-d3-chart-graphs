@@ -6,6 +6,7 @@ import GanttChart from './GanttChart';
 import ResponsiveWrapper from './ResponsiveWrapper';
 import LineChartTime from './LineChartTime';
 import Legend from './Legends';
+import StackedBars from './StackedBars';
 
 export {
     Axes,
@@ -16,5 +17,6 @@ export {
     Legend,
     GanttChart,
     LineChartTime,
+    StackedBars,
 };
 
